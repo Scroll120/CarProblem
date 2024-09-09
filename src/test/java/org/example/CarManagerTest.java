@@ -1,9 +1,5 @@
 package org.example;
 
-import org.example.data.Car;
-import org.example.data.employee.Driver;
-import org.example.data.employee.Employee;
-import org.example.data.employee.Passenger;
 import org.junit.jupiter.api.Test;
 
 import java.util.Set;
